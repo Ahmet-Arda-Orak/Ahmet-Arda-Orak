@@ -15,4 +15,7 @@ HTML-CSS-JS-ReactJs-React Native-MongoDB-Django-Nodejs-SQL
 Yoooth:
 I attended Young Leaders Over The Horizon in March 2020 and my life completely changed. I started learning new things every day. Yoooth is a group that grows more and more every day and I am very happy to be a part of it.
 
+Medium:
+👉https://medium.com/@huskysnow82
+
 Coming Soon... 

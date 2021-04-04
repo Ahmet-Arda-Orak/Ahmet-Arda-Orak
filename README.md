@@ -7,7 +7,7 @@ I was born in Ankara on 10 October 2005. I lived there until I got six years old
 Actually I wasn't loving using technological gadgets before I started learning IT. It was even taking me a long time to locate the letters on the keyboard but now I can code web applications professionally and rapidly. I learned programming in an 8 month Full Stack course.
 
 Github:
-👉https://github.com/E2381-AhmetArda
+👉https://github.com/Ahmet-Arda-Orak
 
 💻The Programming Languages I know:
 HTML-CSS-JS-ReactJs-React Native-MongoDB-Django-Nodejs-SQL

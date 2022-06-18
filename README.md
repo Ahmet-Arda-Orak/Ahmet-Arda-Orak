@@ -20,4 +20,4 @@ Making Videos for digital life
 👉https://www.youtube.com/channel/UCrWjqznc0mVcS4nAn8UFtXg
 
 ✨Yoooth: 
-I attended Young Leaders Over The Horizon as Co-Founder in March 2020 and my life completely changed. I started learning new things every day. Yoooth is a group that grows more and more every day and I am very happy to be a part of it.
+I attended Young Leaders Over The Horizon as Co-Founder in March 2019 and my life completely changed. I started learning new things every day. Yoooth is a group that grows more and more every day and I am very happy to be a part of it.

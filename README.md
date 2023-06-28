@@ -1,23 +1,24 @@
-Entrepreneur 📍 Leader At Young Leaders Over The Horizon 📍 Web Developer 📍 Mobile App Developer
+# 💫 About Me:
+🗺️I'm currently working on a Travel App Startup<br>💼I'm looking for React project opportunities<br>🤝I'm looking for help on Backend(Nodejs) dev of my TravelApp<br>🌿I'm currently learning Nextjs & Asp.net<br>💬Ask me about everything<br>🔥Fun fact - still a student<br>
 
-Interested In: 
-Mobile & Web Design - WEB 3.0 - Photography - Graphic Design
 
-💾Github:
-👉https://github.com/Ahmet-Arda-Orak
-💻HTML-CSS-JS-ReactJs-React Native-MongoDB-Django-Nodejs-SQL
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ahmet Arda Orak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ahmet Arda Orak) 
 
-🎫Medium: 
-Writing about Full Stack Dev - WEB3.0 - Social Media - Other
-👉https://medium.com/@huskysnow82
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahmet-Arda-Orak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmet-Arda-Orak&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-Arda-Orak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🔮Pexels
-My Galery On Pexels:
-👉https://www.pexels.com/tr-tr/@ahmet-arda-orak-71367486
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Ahmet Arda Orak)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-🔴Youtube:
-Making Videos for digital life
-👉https://www.youtube.com/channel/UCrWjqznc0mVcS4nAn8UFtXg
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-✨Yoooth: 
-I attended Young Leaders Over The Horizon as Co-Founder in March 2019 and my life completely changed. I started learning new things every day. Yoooth is a group that grows more and more every day and I am very happy to be a part of it.
+---
+[![](https://visitcount.itsvg.in/api?id=Ahmet-Arda-Orak&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
